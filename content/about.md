@@ -15,25 +15,25 @@ paginate  = 18
 disableHugoGeneratorInject = true
 
 [params]
-ava = "/img/mawar.png"
+ava = "/img/gopherize.png"
 ```
-The Source Code of this Theme Available in [GitHub](https://github.com/httpsecure/hugo-theme-red-rose).
+# Hey! I'm Isroil Mukhitdinov
+---
+I am a software engineer who loves to make software applications that are flexible, robust and most importantly modular. 
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I love to think of computer science and the process of writing software not as just an intellectual activity of the mind, but as an expression of art. 
 
-Hugo makes use of a variety of open source projects including:
+I've been studying computer science for the last 4 years.
+My passion for computer science sparked first when I read the first few chapters of an amazing book named "Structure and Interpretation of Computer Programs" by two legendary MIT professors: Harold Abelson & Gerald Jay Susman.
+Hence, I started out with glorius Lisp programming language and fell in love with the Functional Programming Paradigm (I like Object-Oriented Design too).
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My favorite programming languages are Go, Rust, Zig and of course, Lisp. I speak a bit of Java, Python, Elm and Haskell as well.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Here you can find me writing posts about various topics of computer science.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you have anything to suggest or discuss with me, please do not hesitate to reach out to me through one of the links provided on this site. I would love to hear from you.
+
+The source code of this web site is available in [GitHub](https://github.com/IsroilMukhitdinov/blog).
 
