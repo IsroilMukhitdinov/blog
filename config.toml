@@ -1,0 +1,18 @@
+baseURL = 'http://isroilmukhitdinov.net/'
+languageCode = 'en-us'
+title = 'Isroil Mukhitdinov'
+theme = 'rose'
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 18
+disableHugoGeneratorInject = true
+
+
+[params]
+ava = "/img/gopherize.png"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
