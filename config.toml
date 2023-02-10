@@ -1,4 +1,4 @@
-baseURL = 'http://mukhitdinov.xyz/'
+baseURL = 'https://mukhitdinov.xyz/'
 languageCode = 'en-us'
 title = 'Isroil Mukhitdinov'
 theme = 'rose'
