@@ -5,7 +5,7 @@ draft: false
 
 ---
 ```toml
-baseURL = 'http://isroilmukhitdinov.net/'
+baseURL = 'http://mukhitdinov.xyz/'
 languageCode = 'en-us'
 title = 'Isroil Mukhitdinov'
 PygmentsCodeFences = true
