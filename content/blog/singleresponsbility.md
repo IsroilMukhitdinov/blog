@@ -4,16 +4,16 @@ date: 2023-01-27
 draft: false
 tags: ["Isroil Mukhitdinov"]
 ---
-![mawar](/img/banner03.jpg)
+![mawar](/img/networks.jpg)
 
 > "The great art of learning is to understand but little at a time."<br>
 > --<cite> John Locke</cite>
 
-Today, I made an intention to cover all the SOLID design principles that was introduced by Robert C.Martin in his amazing piece of work, "Agile Software Development, Principles, Patterns, and Practices". But how do you eat an elephant ? One bite at a time. So, in this post, We will be exploring the first principle which is `Single Responsibility` principle. Later in the series of software design principles, We will examine the rest of the principles.
+Today, I made an intention to cover all the SOLID design principles that was introduced by Robert C.Martin in his amazing piece of work, "Agile Software Development, Principles, Patterns, and Practices". But how do you eat an elephant ? One bite at a time. So, in this post, We will be exploring the first principle which is `SINGLE RESPONSIBILITY` principle. Later in the series of software design principles, We will examine the rest of the principles.
 
 One of the rules of Unix philosophy is to design software pieces that does only one thing and do it so well. The benefit is that you can gather all the small modules or units of code, and make them work together to accomplish a much greater task. That is a moduler design, which I love the most. If you want to learn more about it, go to [The Unix Operating System]("https://www.youtube.com/watch?v=tc4ROCJYbm0").
 
-To see the `Single Responsibility` principle in action, let's write some code to find the square root of a given floating point number using [Newton's method]("https://en.wikipedia.org/wiki/Newton%27s_method") which basically uses successive guessing, going closer and closer to the right answer and stops when the guess is an enough approximation.
+To see the `SINGLE RESPONSIBILITY` principle in action, let's write some code to find the square root of a given floating point number using [Newton's method]("https://en.wikipedia.org/wiki/Newton%27s_method") which basically uses successive guessing, going closer and closer to the right answer and stops when the guess is an enough approximation.
 
 ---
 main.go

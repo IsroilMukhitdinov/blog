@@ -5,7 +5,7 @@ draft: false
 
 ---
 ```toml
-baseURL = 'http://mukhitdinov.xyz/'
+baseURL = 'https://mukhitdinov.xyz/'
 languageCode = 'en-us'
 title = 'Isroil Mukhitdinov'
 PygmentsCodeFences = true
@@ -30,10 +30,8 @@ Hence, I started out with glorius Lisp programming language and fell in love wit
 
 My favorite programming languages are Go, Rust, Zig and of course, Lisp. I speak a bit of Java, Python, Elm and Haskell as well.
 
-Here you can find me writing posts about various topics of computer science.
-
+Here you can find me writing posts about various topics of computer science, especially programming language design as well as engineering aspects of computer science. 
 
 If you have anything to suggest or discuss with me, please do not hesitate to reach out to me through one of the links provided on this site. I would love to hear from you.
 
-The source code of this web site is available in [GitHub](https://github.com/IsroilMukhitdinov/blog).
 
