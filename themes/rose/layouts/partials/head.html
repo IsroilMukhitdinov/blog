@@ -21,6 +21,9 @@
     {{ $style := resources.Get "font.scss" | resources.ToCSS | resources.Fingerprint }}
     <link defer rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ .Data.Integrity }}">
 
+    <!-- Favicon Icon -->
+    <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
+
     <!-- Tab info -->
     <title>
         {{ if .IsHome }}
