@@ -4,6 +4,7 @@ body {
 /*url link markdown*/
 a {
   color: rebeccapurple;
+  font-size: 18px;
 }
 a:hover{
   color: rebeccapurple;
@@ -14,6 +15,7 @@ h1 {
 /*blog post font color*/
 p {
   color: #e1D9D1;
+  font-size: 18px;
 }
 /*layout size*/
 .container-sm {
@@ -37,13 +39,14 @@ img {
   height: 100px;
   width: 100px;
   border-radius: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 /*header/navbar*/
 .head-rose {
   color: white;
   text-decoration: none;
+  font-size: 24px;
 }
 .head-rose:hover{
   color: white;
@@ -62,7 +65,8 @@ img {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  /* border-bottom-color: rgba(255, 255, 255, .25); */
+  border-bottom-color: rebeccapurple;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -109,5 +113,107 @@ kbd {
   border-radius: 10px;
   padding-left: 10px;
  
-  font-size: 13px !important;
+  font-size: 15px !important;
 }
+
+
+
+/* ========================================================================================= */
+
+
+
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+} .spin:hover {
+  animation-name: spinning;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  /* linear | ease | ease-in | ease-out | ease-in-out */
+  animation-timing-function: linear;
+}
+
+
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+
+.toggle {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.toggle-switch {
+  display: inline-block;
+  background: #ccc;
+  border-radius: 8px;
+  width: 50px;
+  height: 24px;
+  position: relative;
+  vertical-align: middle;
+  transition: background 0.25s;
+}
+.toggle-switch:before, .toggle-switch:after {
+  content: "";
+}
+
+
+.toggle-switch:before {
+  display: block;
+  background: linear-gradient(to bottom, #fff 0%, #eee 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  transition: left 0.25s;
+}
+.toggle:hover .toggle-switch:before {
+  background: linear-gradient(to bottom, #fff 0%, #fff 100%);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
+}
+.toggle-checkbox:checked + .toggle-switch {
+  background: rebeccapurple;
+}
+.toggle-checkbox:checked + .toggle-switch:before {
+  left: 30px;
+}
+
+.toggle-checkbox {
+  position: absolute;
+  visibility: hidden;
+}
+
+.toggle-label {
+  margin-left: 5px;
+  position: relative;
+  top: 2px;
+}
+
+.article-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

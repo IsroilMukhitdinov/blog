@@ -1,7 +1,6 @@
 baseURL = 'https://mukhitdinov.xyz/'
 languageCode = 'en-us'
 title = 'Isroil Mukhitdinov'
-theme = 'rose'
 PygmentsCodeFences = true
 PygmentsStyle = "solarized-dark256"
 pluralizelisttitles = "false"
@@ -11,6 +10,7 @@ disableHugoGeneratorInject = true
 
 [params]
 ava = "/img/isroilmukhitdinov.png"
+js = "/js/main.js"
 
 [module]
   [module.hugoVersion]
