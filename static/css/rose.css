@@ -125,7 +125,7 @@ kbd {
 @keyframes spinning {
     from { transform: rotate(0deg) }
     to { transform: rotate(360deg) }
-} .spin:hover {
+} .spin {
   animation-name: spinning;
   animation-duration: 3s;
   animation-iteration-count: infinite;
