@@ -13,9 +13,6 @@ PygmentsStyle = "solarized-dark256"
 pluralizelisttitles = "false"
 paginate  = 18
 disableHugoGeneratorInject = true
-
-[params]
-ava = "/img/gopherize.png"
 ```
 # Hey! I'm Isroil Mukhitdinov
 ---

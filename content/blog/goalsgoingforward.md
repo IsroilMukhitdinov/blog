@@ -4,7 +4,7 @@ date: 2023-01-27
 draft: false
 tags: ["Isroil Mukhitdinov", "Goals", "Vision"]
 ---
-![mawar](/img/networks.jpg)
+![mawar](/img/road.jpg)
 
 
 I have always been ambitious of running a personal blog of mine. That must be hugely because of my love for this gift we call writing. Growing up, I have had an incredible privilege of having so many great teachers and I have been heavily influenced by some spectacular individuals on the Internet. All of them continuously emphasized the role of writing all the time. Among them is one of the greatest minds of Computer Science, Leslie Lamport, the man who revolutionized the field of Computer Science with Mathematics.
