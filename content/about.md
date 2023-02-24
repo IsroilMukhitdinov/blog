@@ -34,4 +34,6 @@ Here you can find me writing posts about various topics of computer science, esp
 
 If you have anything to suggest or discuss with me, please do not hesitate to reach out to me through one of the links provided on this site. I would love to hear from you.
 
+`MUSIC PLAYED ON THIS WEBSITE BELONGS TO SPECTACULAR PRODUCER KATRINA LIL`
+
 
