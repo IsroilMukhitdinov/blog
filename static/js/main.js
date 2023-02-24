@@ -1,4 +1,4 @@
-var music = new Audio("../music/katrinalil.mp3");
+var music = new Audio("../music/music.mp3");
 
 var checkbox = document.querySelector("input[name=checkbox]");
 
