@@ -2,7 +2,7 @@
 title: "Goals Going Forward"
 date: 2023-01-27
 draft: false
-tags: ["Isroil Mukhitdinov", "Goals", "Vision"]
+tags: ["Goals", "Vision"]
 ---
 ![mawar](/img/road.jpg)
 
