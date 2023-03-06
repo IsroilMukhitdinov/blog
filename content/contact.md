@@ -6,4 +6,4 @@ draft: false
 
 Mail me : isroillisper@gmail.com
 
-Shoot me a msg on : [telegram](https://t.me/isroilmukhitdinov) or [linkedin](https://linkedin.com/in/isroilmukhitdinov)
+Message me : [telegram](https://t.me/isroilmukhitdinov) or [linkedin](https://linkedin.com/in/isroilmukhitdinov)
